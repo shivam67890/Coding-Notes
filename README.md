@@ -1,19 +1,26 @@
-## 📂 Java
-- [Java Basics](java/basics.md)
-- [OOPs Concepts](java/oops.md)
+# 📘 Coding Notes
 
-## 🧠 System Design
-- [Design Basics](system-design/basics.md)
-- [Caching](system-design/caching.md)
+Auto-generated index of coding notes.
+
+## 📂 Java
+
+- [basics](java/basics.md)
+- [oops](java/oops.md)
 
 ## 📊 DSA
-- [Arrays](dsa/arrays.md)
-- 📁 Strings
-  - [Overview](dsa/strings/overview.md)
-  - [Avoid "ABC" Substrings](dsa/strings/avoid-abc.md)
-- [Binary Search Trees](dsa/trees/bst.md)
-- [Heap](dsa/trees/heap.md)
+
+- [overview](dsa/arrays/overview.md)
+- [avoid-abc](dsa/strings/avoid-abc.md)
+- [overview](dsa/strings/overview.md)
+- [bst](dsa/trees/bst.md)
+- [heap](dsa/trees/heap.md)
 
 ## 🐧 Linux
-- [Commands](linux/commands.md)
+
+- [commands](linux/commands.md)
+
+## 🧠 System Design
+
+- [basics](system-design/basics.md)
+- [caching](system-design/caching.md)
 
